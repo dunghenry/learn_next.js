@@ -1,5 +1,4 @@
 import axios from 'axios';
-
 export const getPosts = async (limit) => {
     try {
         const response = await axios.get(

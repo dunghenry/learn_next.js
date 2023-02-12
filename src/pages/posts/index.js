@@ -1,5 +1,5 @@
 import React from 'react';
-import { getPosts } from '../lib/posts';
+import { getPosts } from '../../lib/posts';
 import Link from 'next/link';
 const Posts = ({ posts }) => {
     // console.log(props);
