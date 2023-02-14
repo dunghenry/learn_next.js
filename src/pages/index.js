@@ -5,7 +5,7 @@ export default function Home(props) {
     console.log(props);
     return (
         <Layout>
-            <h1 className={styles.main}>Xin chao</h1>
+            <h1 className={styles.main}>Xin chao hehe</h1>
         </Layout>
     );
 }
